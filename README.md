@@ -43,6 +43,7 @@ Tools for evaluating student performance and providing feedback.
 - [Gradescope](https://www.gradescope.com/) — Assessment and grading platform with AI-assisted workflows.
 - [Quizizz](https://quizizz.com/) — Interactive quiz platform for formative assessment.
 - [Socrative](https://www.socrative.com/) — Classroom response system for quizzes and real-time feedback.
+- [桃李AI](https://taoliapp.com/) — AI end-of-term student comment generator for Chinese K-12 teachers (Excel roster + trait tags).
 
 ## Content Delivery & Presentation
 
