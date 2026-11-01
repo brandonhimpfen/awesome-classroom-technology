@@ -43,6 +43,7 @@ Tools for evaluating student performance and providing feedback.
 - [Gradescope](https://www.gradescope.com/) — Assessment and grading platform with AI-assisted workflows.
 - [Quizizz](https://quizizz.com/) — Interactive quiz platform for formative assessment.
 - [Socrative](https://www.socrative.com/) — Classroom response system for quizzes and real-time feedback.
+- [QuizQuip](https://quizquip.com/) — Chapter notes, quizzes, and original practice papers for Singapore lower-secondary science (Sec 1–2), with AI practice.
 
 ## Content Delivery & Presentation
 
